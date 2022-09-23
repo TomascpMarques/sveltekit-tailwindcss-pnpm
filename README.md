@@ -1,3 +1,10 @@
+# Template includes:
+- Svelte
+- Typescript
+- Tailwindcss
+- EsLint & Prettier
+- Font: Nunito & Roboto Mono
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
